@@ -1,4 +1,9 @@
-### Hi there 👋
+### This is Ray 👋
+
+- 59% Comp Sci + 41% Stats + Undergrad + UofT -> Me
+- 100% (NLP + Applied Machine Learning) -> Current Learning Interest
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachan1637&count_private=true&hide=stars,issues&theme=tokyonight)
 
 <!--
 **rachan1637/rachan1637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
