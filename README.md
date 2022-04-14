@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachan1637&count_private=true&hide=stars,issues&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachan1637&hide=jupyter%20notebook,html&exclude_repo=Data-Science-Projects,old-project-repo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rachan1637/rachan1637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
