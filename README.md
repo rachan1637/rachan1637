@@ -1,7 +1,7 @@
 ### This is Ray 👋
 
-- 59% Comp Sci + 41% Stats + Undergrad + UofT -> Me
-- 100% (NLP + Applied Machine Learning) -> Current Learning Interest
+- 59% Comp Sci + 41% Stats + 4th-Year Undergrad + UofT -> Me
+- 50% Applied Machine Learning + 50% Software Engineering -> Career Interest
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachan1637&count_private=true&hide=stars,issues&theme=tokyonight)
 
