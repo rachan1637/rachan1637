@@ -1,7 +1,10 @@
 ### This is Ray 👋
 
-- 59% Comp Sci + 41% Stats + Undergrad @ UofT -> Me
-- Machine Learning + Software Engineering -> Career Interest
+- I'm an incoming Data Engineer @ TD Bank, recently graduating from UofT.
+- I learned Computer Science and Statistics @ UofT from 2018-2023. 
+- While I have extensive experiences on ML, NLP and Data Science, I want to switch my focus on software engineering, data engineering and MLOps.
+
+⚡ Fun fact: I love 🏀, 🍜, 🎮, and 🎬
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachan1637&count_private=true&hide=stars,issues&theme=tokyonight)
 
