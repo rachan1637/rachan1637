@@ -1,7 +1,7 @@
 ### This is Ray 👋
 
-- I'm an incoming Data Engineer @[TD Bank](https://www.td.com/us/en/personal-banking).
-- I studied Computer Science and Statistics @UofT from 2018-2023, previously interned @[Semantic Health](https://www.semantichealth.ai/) as MLE.
+- I'm an incoming Data Engineer [@TD Bank](https://www.td.com/us/en/personal-banking).
+- I studied Computer Science and Statistics @UofT from 2018-2023, previously interned [@Semantic Health](https://www.semantichealth.ai/) as MLE.
 - While I have extensive experiences on ML, NLP and Data Science, I want to switch my focus on software engineering, data engineering and MLOps.
 
 ⚡ Fun fact: 
