@@ -1,12 +1,12 @@
 ### This is Ray 👋
 
-- I'm an incoming Data Engineer [@TD Bank](https://www.td.com/us/en/personal-banking).
+- I'm a Software Engineer [@TD Bank](https://www.td.com/us/en/personal-banking).
 - I studied Computer Science and Statistics @UofT from 2018-2023, previously interned [@Semantic Health](https://www.semantichealth.ai/) as MLE.
-- While I have extensive experiences on ML, NLP and Data Science, I want to switch my focus on software engineering, data engineering and MLOps.
+- While I have extensive experience in ML, NLP and Data Science, I want to switch my focus to software engineering, data engineering, and MLOps.
 
 ⚡ Fun fact: 
 - I love 🏀, 🍜, 🎮, and 🎬.
-- Made at Taiwan, raised at Xiamen, China.
+- Made in Taiwan, raised in Xiamen, China.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachan1637&count_private=true&hide=stars,issues&theme=tokyonight)
 
