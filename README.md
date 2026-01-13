@@ -1,16 +1,11 @@
 ### This is Ray 👋
 
-- I'm a Software Engineer [@TD Bank](https://www.td.com/us/en/personal-banking).
+- I'm a Full-stack Software Engineer [@Stripe](https://stripe.com).
 - I studied Computer Science and Statistics @UofT from 2018-2023, previously interned [@Semantic Health](https://www.semantichealth.ai/) as MLE.
-- While I have extensive experience in ML, NLP and Data Science, I want to switch my focus to software engineering, data engineering, and MLOps.
 
 ⚡ Fun fact: 
-- I love 🏀, 🍜, 🎮, and 🎬.
+- I love 🏀, 🚴‍♂️, 🍜, 🎮, and 🎬, anime/manga.
 - Made in Taiwan, raised in Xiamen, China.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachan1637&count_private=true&hide=stars,issues&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachan1637&hide=jupyter%20notebook,html&exclude_repo=Data-Science-Projects,old-project-repo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rachan1637/rachan1637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
